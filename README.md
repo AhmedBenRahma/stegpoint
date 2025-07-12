@@ -1,6 +1,6 @@
 # StegPoint
 
-**StegPoint** is a desktop application for employee attendance management.  
+**StegPoint** is a desktop application for STEG Sousse employee attendance management.  
 It is built mainly with PHP and runs locally using [PHP Desktop](https://github.com/cztomczak/phpdesktop), providing an easy-to-use interface for importing attendance data, generating reports, and managing time tracking — all without needing a separate web server or browser.
 
 ---
