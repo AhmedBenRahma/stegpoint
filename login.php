@@ -1,10 +1,6 @@
 <?php
 session_start();
 
-// Données valides pour tester
-$correct_username = "admin";
-$correct_password = "stegsteg";
-
 // Récupère ce que l'utilisateur a saisi
 $username = $_POST['username'] ?? '';
 $password = $_POST['password'] ?? '';
